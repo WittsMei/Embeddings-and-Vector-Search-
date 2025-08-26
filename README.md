@@ -9,7 +9,8 @@
 
 
 ### Challenge
-<img width="1590" height="404" alt="image" src="https://github.com/user-attachments/assets/e9a5cdb2-3bf4-4fd0-98ad-891ecd513904" />
+<img width="1776" height="464" alt="d84ef59a-0fd2-4d94-9b91-a5efbf43995f" src="https://github.com/user-attachments/assets/eb33fa44-f1d8-44b0-8a10-e8e738a5db28" />
+
 <img width="1592" height="562" alt="883a4abb-cfca-4366-b989-cb898e25f359" src="https://github.com/user-attachments/assets/838bf551-124e-4f14-badb-0d6b2de74d5b" />
 
 
