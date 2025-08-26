@@ -19,7 +19,7 @@
 
 
 By conducting one-hot encoding, you tune each word to a vector and convert the sentence �a dog is chasing a person� into a matrix that a machine learning model ingests. 
-<img width="1216" height="722" alt="58ddd1f5-5f9c-4982-9d16-090c44827803" src="https://github.com/user-attachments/assets/2701938e-a32a-42d1-b582-240824cb8a14" />
+<img width="1778" height="736" alt="048e73cd-a0e2-4cc3-b32a-ee8c3334e242" src="https://github.com/user-attachments/assets/f53e7451-423a-4bdf-9b7d-a04411b787dc" />
 
 <img width="1764" height="870" alt="0b0f2ea1-7f6f-4ac4-abbf-b38f73706acb" src="https://github.com/user-attachments/assets/a8524b64-da15-4be1-8b6a-76515329c1ad" />
 
