@@ -4,7 +4,8 @@
 - Search
 
 ### Embeddings
-<img width="2711" height="1241" alt="15f64338-b97d-4a46-b8a4-459e8e02ef38" src="https://github.com/user-attachments/assets/32eeee57-e335-43c9-b825-58d81640673b" />
+<img width="2608" height="1205" alt="99eef8ef-db62-467c-9a41-a50b73018685" src="https://github.com/user-attachments/assets/cf323305-855c-46fb-86ff-6c4b50e275e4" />
+
 
 
 ### Challenge
