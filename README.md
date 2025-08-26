@@ -1,5 +1,3 @@
-<img width="1216" height="722" alt="58ddd1f5-5f9c-4982-9d16-090c44827803" src="https://github.com/user-attachments/assets/75ffffaf-ce15-485d-93ae-69a36a185a63" /># Embeddings-and-Vector-Search-
-
 ### RAG
 - Encode (Vector embeddings)
 - Index (Vector embeddings)
