@@ -15,7 +15,8 @@
 
 
 ### One-hot encoding: Convert text to vectors
-<img width="1518" height="786" alt="1f44f009-06fa-4ec6-b6ca-00e726b0b6ed" src="https://github.com/user-attachments/assets/8bb6f479-195f-47ab-aa87-0a85e7c9647a" />
+<img width="1878" height="810" alt="cea249b2-10ca-4727-80be-2552a350e1a4" src="https://github.com/user-attachments/assets/f8a9bb3a-146b-41ac-92ba-97ff82b619e3" />
+
 
 By conducting one-hot encoding, you tune each word to a vector and convert the sentence �a dog is chasing a person� into a matrix that a machine learning model ingests. 
 <img width="1216" height="722" alt="58ddd1f5-5f9c-4982-9d16-090c44827803" src="https://github.com/user-attachments/assets/2701938e-a32a-42d1-b582-240824cb8a14" />
