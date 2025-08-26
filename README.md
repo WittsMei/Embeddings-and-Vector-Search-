@@ -28,6 +28,8 @@ A large sparse Matrix lead to Computational waste.
 ### Word Embeddings
 <img width="716" height="420" alt="75326c3c-cf96-4647-ba2a-fd75e332cca4" src="https://github.com/user-attachments/assets/3227cbae-98d3-4e42-87e0-5640d2cd0434" />
 
+hundreds of dimensions, not just three
+
 
 
 
