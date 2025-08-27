@@ -38,6 +38,8 @@ A large sparse Matrix lead to Computational waste.
 
 hundreds of dimensions, not just three
 
+one-hot encoding: 20, 000 dimensions
+
 
 
 
