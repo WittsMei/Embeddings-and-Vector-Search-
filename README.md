@@ -45,7 +45,17 @@ one-hot encoding: 20, 000 dimensions
 
 
 ### cosine distance
+
+Cosine similarity 衡量的是两个向量的方向一致性（cosθ），范围是 [−1,1]
+θ 越大，cosθ越小
+
+<img width="2014" height="748" alt="0f5d329f-cc01-48c4-93d2-3bae2bbe6f60" src="https://github.com/user-attachments/assets/996d0076-02b3-42ae-8ab4-74a20ce73e97" />
+
+<img width="1108" height="262" alt="8d3ebad0-a859-4264-873e-9038f2c20ece" src="https://github.com/user-attachments/assets/2ee713cf-0efa-4514-bba9-9b00fc1f3770" />
+
 <img width="1940" height="970" alt="c74c34ef-e1fc-4f6b-8600-d573c45a04ae" src="https://github.com/user-attachments/assets/77b92c86-6603-4d7d-aa65-980531d57853" />
+
+
 
 
 
