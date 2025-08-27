@@ -31,6 +31,8 @@ A large sparse Matrix lead to Computational waste.
 
 <img width="1966" height="888" alt="8d4824f2-5505-4504-a1df-83ed5d03c319" src="https://github.com/user-attachments/assets/90a197d6-2e22-47c7-9115-c77a3653f7b7" />
 
+<img width="1966" height="914" alt="e22d99d0-9098-4a1a-9dc1-0227967e5cd0" src="https://github.com/user-attachments/assets/cea29b5b-18b2-468a-afa7-6ff6ae214023" />
+
 
 <img width="716" height="420" alt="75326c3c-cf96-4647-ba2a-fd75e332cca4" src="https://github.com/user-attachments/assets/3227cbae-98d3-4e42-87e0-5640d2cd0434" />
 
