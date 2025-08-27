@@ -44,6 +44,11 @@ one-hot encoding: 20, 000 dimensions
 
 
 
+### cosine distance
+<img width="1940" height="970" alt="c74c34ef-e1fc-4f6b-8600-d573c45a04ae" src="https://github.com/user-attachments/assets/77b92c86-6603-4d7d-aa65-980531d57853" />
+
+
+
 
 
 
