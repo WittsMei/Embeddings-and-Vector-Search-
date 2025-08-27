@@ -27,6 +27,11 @@ By conducting one-hot encoding, you tune each word to a vector and convert the s
 A large sparse Matrix lead to Computational waste.
 
 ### Word Embeddings
+<img width="1888" height="566" alt="484c64a2-7002-42d2-afcb-af5c8ce9dd50" src="https://github.com/user-attachments/assets/7ed9dce4-f4d3-48b8-8bfe-959646e5b13c" />
+
+<img width="1966" height="888" alt="8d4824f2-5505-4504-a1df-83ed5d03c319" src="https://github.com/user-attachments/assets/90a197d6-2e22-47c7-9115-c77a3653f7b7" />
+
+
 <img width="716" height="420" alt="75326c3c-cf96-4647-ba2a-fd75e332cca4" src="https://github.com/user-attachments/assets/3227cbae-98d3-4e42-87e0-5640d2cd0434" />
 
 hundreds of dimensions, not just three
