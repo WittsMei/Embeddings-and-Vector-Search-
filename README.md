@@ -40,6 +40,9 @@ hundreds of dimensions, not just three
 
 one-hot encoding: 20, 000 dimensions
 
+<img width="1958" height="940" alt="369bb5e6-baa7-489e-9093-00f4c8b84807" src="https://github.com/user-attachments/assets/e747ca89-3648-4dbc-b781-88bb3b20890a" />
+
+
 
 
 
