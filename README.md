@@ -42,6 +42,17 @@ one-hot encoding: 20, 000 dimensions
 
 <img width="1958" height="940" alt="369bb5e6-baa7-489e-9093-00f4c8b84807" src="https://github.com/user-attachments/assets/e747ca89-3648-4dbc-b781-88bb3b20890a" />
 
+## Distance measurement algorithms
+<img width="1970" height="848" alt="f1e5f6a0fb0fdb0914588783523b0d24" src="https://github.com/user-attachments/assets/5eec8a7a-6bef-48d5-a29b-b844487da305" />
+
+
+### Manhattan distance
+<img width="1970" height="918" alt="cdbef4b6-8c35-4416-8e57-d15ac8f8c135" src="https://github.com/user-attachments/assets/c22628b0-48b0-4e2b-8af1-236bcee7e38f" />
+
+
+### Euclidean distance
+<img width="1964" height="882" alt="dfd7e7f2-0eed-4f97-9738-bbd96143cfba" src="https://github.com/user-attachments/assets/0b559f49-aa52-4d78-8553-6fb8c7cf78f9" />
+
 
 
 ### Cosine distance
