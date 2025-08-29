@@ -40,6 +40,12 @@ one-hot encoding: 20, 000 dimensions
 
 <img width="1958" height="940" alt="369bb5e6-baa7-489e-9093-00f4c8b84807" src="https://github.com/user-attachments/assets/e747ca89-3648-4dbc-b781-88bb3b20890a" />
 
+
+## Vector Search
+<img width="2096" height="910" alt="ec67b709-0456-47f8-bb70-c44f6964fe23" src="https://github.com/user-attachments/assets/107e7d87-57dc-444d-acaa-b6b9c2a37a8f" />
+
+
+
 ## Distance measurement algorithms
 <img width="1970" height="848" alt="f1e5f6a0fb0fdb0914588783523b0d24" src="https://github.com/user-attachments/assets/5eec8a7a-6bef-48d5-a29b-b844487da305" />
 
