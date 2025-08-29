@@ -84,6 +84,15 @@ Cosine similarity 衡量的是两个向量的方向一致性（cosθ），范围
 
 
 
+## Search algorithms
+<img width="2184" height="916" alt="db0c084303e43adc36fb20b514e91565" src="https://github.com/user-attachments/assets/f02051a0-a9d7-4d78-b320-dd1eca554690" />
+
+<img width="2192" height="1098" alt="cc76681d6219534753caadfae358ddf4" src="https://github.com/user-attachments/assets/7f2c0366-d93c-4a33-8f13-0946025ed22f" />
+
+
+
+
+
 
 
 
